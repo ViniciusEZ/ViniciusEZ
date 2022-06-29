@@ -9,7 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusEZ&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEZ&layout=compact&langs_count=7&theme=monokai"/>
 </div>
-<img align="center" alt="ViniciusEZ-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="ViniciusEZ-Python" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 
 
