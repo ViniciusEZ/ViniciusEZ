@@ -1,7 +1,7 @@
 # Ola, sou o Vinicius e bem-vindo ao meu perfil! 😉
 
 - 🎓  Cursando Análise e Desenvolvimento de Sistemas. 
-- 😎   Full Stack. 
+- 😎  Back-end. 
 - 🐍  Entusiasta da linguagem Python.
 
 <div>
